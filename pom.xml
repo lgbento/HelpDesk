@@ -18,6 +18,10 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<jjwt.version>0.7.0</jjwt.version>
+		  <sonar.projectKey>lgbento_HelpDesk</sonar.projectKey>
+  <sonar.organization>lgbento</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>c254def16348f39d5fd5443668e7b5023e01567f</sonar.login>
 	</properties>
 
 	<dependencies>
